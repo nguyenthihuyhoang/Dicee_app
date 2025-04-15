@@ -25,7 +25,7 @@ class DicePage extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.black,
       appBar: AppBar(
-        title: const Text('GFG | Dice'),
+        title: const Text('Dicee_app'),
         backgroundColor: const Color.fromRGBO(15, 157, 88, 1),
         foregroundColor: Colors.white,
       ),
